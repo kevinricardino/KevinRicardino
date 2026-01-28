@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Kevin | Takedown Analyst Jr. & Cybersecurity Enthusiast 👾
+# 👨🏻‍💻 Takedown Analyst Jr. & Cybersecurity Enthusiast 👾
 
 IT professional with experience in technical support and cybersecurity.
 
