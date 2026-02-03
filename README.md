@@ -9,6 +9,9 @@ Currently, I work as a Junior Takedown Analyst, focusing on identifying and miti
 fake applications, and brand abuse. My role involves supporting takedown processes with online platforms, applying OSINT techniques, 
 analyzing domain reputation, and collaborating with cybersecurity and legal teams to protect brand integrity.
 
+I am presently learning Python to enhance automation and data analysis, with the long-term goal of specializing in Java to build a 
+deep understanding of robust architectures and scalable systems.
+
 I have an advanced level of English and continuously seek to improve my communication skills. I am also learning Spanish and 
 practicing regularly to perform effectively in international and multicultural environments.
 
@@ -25,32 +28,14 @@ practicing regularly to perform effectively in international and multicultural e
 
 ## 📈 GitHub Stats & Activity 💡
 
-<center>
-  <div style="display: flex; flex-wrap: nowrap; overflow-x: auto; justify-content: center; align-items: center; gap: 10px; max-width: 800px; padding: 10px;">
-    <img
-      alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=KevinRicardino&show_icons=true&theme=github_dark"
-      style="height: 150px; width: auto; flex-shrink: 0; object-fit: contain; border: none;"
-    />
-    <img
-      alt="Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinRicardino&layout=compact&theme=github_dark"
-      style="height: 150px; width: auto; flex-shrink: 0; object-fit: contain; border: none;"
-    />
-  </div>
-</center>
+<p align="left">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KevinRicardino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KevinRicardino&layout=compact&theme=dracula" />
+</p>
 
-
-
-
-
-
-
-
-
-
-
-
+<p align="left">
+  <img width="77%" src="https://github-readme-activity-graph.vercel.app/graph?username=KevinRicardino&theme=dracula&area=true&hide_border=true" />
+</p>
 
 
 
